@@ -3,3 +3,11 @@ Tarea U
 
 Diagrama UML 
 ![image](https://github.com/CesarSTF/EstructuraDatos/assets/166522713/1ac7ac68-ee69-4175-b4e0-06f094d9dea7)
+
+Main de Árbol simple 
+
+![image](https://github.com/CesarSTF/EstructuraDatos/assets/166522713/39aa4195-d921-446c-8723-74ebfb54b350)
+
+Ejecución
+
+![image](https://github.com/CesarSTF/EstructuraDatos/assets/166522713/06b1063e-d045-4dfd-9614-d11e56995198)
