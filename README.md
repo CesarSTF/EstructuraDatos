@@ -10,4 +10,4 @@ Main de Árbol simple
 
 Ejecución
 
-![image](https://github.com/CesarSTF/EstructuraDatos/assets/166522713/06b1063e-d045-4dfd-9614-d11e56995198)
+![image](https://github.com/CesarSTF/EstructuraDatos/assets/166522713/0e4857c4-f47b-46b2-8d01-1b8dbbf9e1cb)
